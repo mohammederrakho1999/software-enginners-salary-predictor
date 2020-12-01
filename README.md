@@ -39,6 +39,8 @@
  # EDA: Data exploration:
  I looked at the distributions of the data and do some univariate and biaviriate analysis. Below are a few highlights from the pivot tables.
  ![](images/cap.PNG)
+ ![](images/rr.PNG)
+ ![](images/rrr.PNG)
  
 
   

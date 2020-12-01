@@ -1,0 +1,1753 @@
+Job Title,Salary Estimate,Job Description,Rating,Company Name,Location,Headquarters,Size,Founded,Type of ownership,Industry,Sector,Revenue,Competitors
+HL7 Business Analyst / JavaScript Developer,,"Do you want to gain valuable skills and experience working as a contractor?
+
+ACCENTURE CONTRACTOR EXCHANGE Solves clients’ toughest challenges by providing unmatched services in strategy, consulting, digital, technology, operations, and security. Develop and enhance your skills and experience, working across diverse teams, projects, and industries.
+
+Project Description:
+We are seeking a HL7 Business Analyst / JavaScript Developer for our client our client in Pleasanton, CA
+This is a contract opportunity that does not offer sponsorship nor in the future
+Must be willing to work on W2
+
+Responsibilities:
+Experience working on HL7 integrations and mapping within an enterprise environment
+Work within an established multidiscipline Agile Scrum Team
+Work and focus on the implementation and ongoing support of HL7 interfaces with external customers
+Experience with applications development using Java/ J2EE Technologies like Core java, Spring MVC, Swings, EJB, JavaScript, HTML5, CSS, XML and JMS
+
+Minimum Qualifications:
+
+Minimum 3+ Business Analyst and JavaScript Development experience
+
+Preferred Qualifications:
+
+Core Java
+Spring MVC
+Swings
+EJB
+JavaScript
+HTML5
+CSS
+XML
+JMS
+
+Keywords:
+Business Analyst
+JavaScript Developer
+
+Applicants for employment in the US must have work authorization that does not now or in the future require sponsorship of a visa for employment authorization in the United States and with Accenture (i.e., H1-B visa, F-1 visa (OPT), TN visa or any other non-immigrant status).
+
+Candidates who are currently employed by a client of Accenture or an affiliated Accenture business may not be eligible for consideration.
+
+Accenture is a Federal Contractor and an EEO and Affirmative Action Employer of Females/Minorities/Veterans/Individuals with Disabilities.
+
+Equal Employment Opportunity
+
+All employment decisions shall be made without regard to age, race, creed, color, religion, sex, national origin, ancestry, disability status, veteran status, sexual orientation, gender identity or expression, genetic information, marital status, citizenship status or any other basis as protected by federal, state, or local law.
+
+Job candidates will not be obligated to disclose sealed or expunged records of conviction or arrest as part of the hiring process.
+
+Accenture is committed to providing veteran employment opportunities to our service men and women.",3.9,"Accenture
+3.9","Pleasanton, CA",,10000+ Employees,1989,Company - Public,Consulting,Business Services,$10+ billion (USD),
+Full Stack Software Developer (Python/Javascript),,"This is a full time, purely remote position.
+
+SpotOn is a fast-growing marketing, loyalty, and payments platform that helps small business owners understand and reach out to their customers and increase revenues by making informed decisions. Customers can discover businesses using our mobile apps, then at order time can check-in and pay for their orders using our mobile and tablet applications. The resulting data allows merchants to send targeted marketing campaigns, track their online reputation, and monitor the growth effect loyal customers can have on revenues, through our flagship web application.
+
+As part of the business operations team, you would be working on various types of systems - from building APIs for exchanging data with external partners, to building web applications to manage business processes, to building out the infrastructure that is necessary to run those systems in a scalable and reliable way. We are looking for someone with at least 5 years of experience building technology solutions that have been used to solve real-world problems.
+
+If this describes you…
+You’ve seen several projects through to completion in similar roles, and either has worked or are comfortable working with, teams of various sizes.
+Have an eye for idiomatic, readable, and performant Python 2/3 code, and experience with linters/debuggers/profilers/etc. which help reach these goals.
+You've worked with frontend development to some extent. JavaScript land moves fast, so we'll understand if your background doesn't perfectly align with our stack (React+Redux+Babel+Webpack, Backbone.js transitioning to Vue), but we're definitely looking for someone who's used a modern framework of some sort, and isn't strictly a jQuery wizard.
+You've worked with some kind of MVC framework.
+Have an eye for idiomatic, readable, and performant Python code, and experience with linters/debuggers/profilers/etc. which help reach these goals
+Comfortable with at least intermediate-level queries in MongoDB and/or PostgreSQL.
+Experienced with Git and comfortable using a branch+tag workflow model that leans heavily on GitHub’s Pull Request utilities
+Bonus: Have experience with Django, Flask, or AioHTTP.
+Bonus: Have experience with JavaScript at or after the ES6 turning point. Trust us, it's a whole new world when you're able to use `import` and `async/await`. We're of course open to teaching these new features as needed.
+Bonus: Have experience with both Python 2 and Python 3, and can explain some of the footguns involved in moving between these versions, and in writing cross-compatible code
+Bonus: DevOps experience of any form. We’re Docker people locally and AWS/Kubernetes people in the cloud.
+Bonus: You’re opinionated about tooling, process, code/test styles, etc., but not too snobby about it. Our process is flexible and ever-changing, and you’d be welcome to leave your mark on it!
+… then here’s a bit about what we have to offer!
+Salary Range: $80k+ annually. This is based on experience and what you bring to the table
+Health, Dental, and Vision insurance
+Company-provided MacBook Pro (or similarly-spec’d device if you’re more of a Linux type).
+A supportive environment, where you will work closely with a skilled team of software and QA engineers, product managers, and graphic designers
+At the time of this writing, we score a 10 on the Joel Test and are working to raise that to at least an 11 in the near future
+Transfers of existing H1B visas will be considered
+SpotOn will consider all applicants for employment without regard to race, color, sex, sexual orientation, gender/gender identity, religion, age, national origin, disability, veteran status, or any other basis as prohibited by federal, state or local law. If you’re allowed to work in the US, you are welcome here.",4.3,"SpotOn
+4.3","San Francisco, CA",,501 to 1000 Employees,2017,Company - Private,Advertising & Marketing,Business Services,Unknown / Non-Applicable,
+Entry Level Java Developer,,"Make a difference
+
+Ciber Global wants you. Come build new things with us and advance your career. At Ciber Global you'll collaborate with experts. You'll join successful teams contributing to our clients' success. You'll work side by side with our clients and have long-term opportunities to advance your career with the latest emerging technologies.
+
+Develops software with a paired partner to deliver user stories that contribute to a valuable working software product, often operating as the lead partner.
+Develops automated unit tests with working software, to confirm software functionality conformance to functional and non-functional requirements.
+Develops automated functional tests to confirm user story acceptance and to detect regression defects.
+Reviews continuous integration build status and fixes build failures.
+Improves continuous integration tooling by automating manual processes within the delivery pipeline and improving quality gates based on past learnings.
+Reviews ongoing production software operations and troubleshoots production issues.
+Implements tooling that monitors application performance metrics and automatically notifies team when a failure occurs in production.
+Active participant in all team agile ceremonies
+
+Skills Required:
+
+Interact with business customers when resolving support issues
+Work with business customers to define business requirements with the customer on new development
+Show leadership in analysis of development and support tasks to drive to a quick implementation and resolution
+Code, test and implement application components in Java, web services and Java related technologies using Ford Credit Frameworks
+Practitioner in at least 2 coding languages
+Comfort level developing in all tiers of application software: front-end, mobile, back-end and database.
+Advanced knowledge of software design patterns
+Knowledge and practical experience of agile delivery
+Demonstrated ability to delivery product road map milestones
+Provide Agile artifacts associated with application components
+
+Skills Preferred:
+
+Strong analytical and problem-solving skills
+Willingness to continuously learn
+Highly motivated professional (self-starter and results oriented).
+Strong interpersonal and communication skills
+Ability to work as a member of a collaborative team
+
+Experience Required:
+
+1+ years JAVA/J2EE Application development experience
+1+ years using AGILE Development methodologies
+3+ years WebLogic/WebSphere Application server
+1+ years HTML, JavaScript, XML server-side Java based development
+Experience with Linux, Windows Operating Systems
+Experience in all components of software delivery
+
+Experience Preferred:
+
+Paired programming and Test-first/Test Driven Development (TDD).
+Familiarity with Spring Cloud and deploying to cloud platforms, preferably Pivotal Cloud Foundry (PCF).
+Exposure to Continuous Integration/Continuous Delivery tools and pipelines such as GIT hub, Jenkins, Maven, Gradle, etc.
+Additional skills desired with SpringBoot and Angular JS
+
+Education Required:
+
+Degree in computer science / engineering or programming experience (Java, HTML, SQL, JavaScript)
+
+Education Preferred:
+
+J2EE certifications a plus
+AWS Certifications
+PCF Certifications a plus
+
+At Ciber Global our consultants have access to a comprehensive benefits package. Benefits can include Paid-Time-Off, Paid Holidays, 401K matching, Life and Accidental Death Insurance, Short & Long Term Disability Insurance, and a variety of other perks.
+
+Ciber Global is an Equal Opportunity Employer Minorities/Females/Gender Identity/Sexual Orientation/Protected Veterans/Individuals with Disabilities.
+
+Find a purpose
+
+Embrace emerging technologies, create inventive solutions and meet intriguing client challenges. Be a part of something bigger working on teams that make a difference and transform business.
+
+Move ahead
+
+No matter where you are in your career, you can work to move to the next level. You'll work hand in hand with top-tier talent and be part of a team focused on the technologies that lead the way to exciting technological changes.",3.1,"Ciber Global LLC.
+3.1","Dearborn, MI",,1001 to 5000 Employees,1974,Company - Private,IT Services,Information Technology,Unknown / Non-Applicable,
+Software Developer(Memphis Area Candidates Only),,"Software Developer *
+Must be located in or around the Memphis,TN area for consideration. No resumes will be considered outside this area*
+Programmer will be responsible for developing, testing and documenting computer programs and other software components based on technical specifications and in line with approved organization standards. The role also assists with troubleshooting, problem solving and issue resolution relating to existing applications.
+Key Responsibilities: *
+• Build or customize programs (objects) or other software components as required, based on detailed technical specifications and incorporating approved design and programming standards.
+• Conduct unit and system testing for all development work.
+• Prepare and maintain all required documentation relating to development work, in accordance with corporate standards.
+• Ensure all development work is conducted in compliance with established change control procedures.
+• Assist with troubleshooting, problem solving and issue resolution tasks.
+• Ensure all development tasks are conducted and completed in cooperation with other technical and functional IT staff team members.
+• Maintain continuous interaction and relationships with the business process owners.
+• Assist in analyzing business requirements and presenting proposed solutions.
+• Maintain an up-to date knowledge of current technical developments in area of expertise.
+Requirements*
+• Bachelor's degree (Engineering or IT related degree is preferred).
+• Five (5) years of experience in application development, testing and implementation.
+• Programming language knowledge in PowerBasic, API, HTML, ASP, VBScript, Javascript, Microsoft SQL query and stored procedures ASP.NET, and Visual Studio.NET 2003,2008,2010. VB.NET C#.NET, Internet Information Services 6,7 and 7.5.
+
+• Demonstrable analytical ability.
+• Good verbal, written and visual communication ability.
+• Ability to communicate technical information in non-technical manner.
+• Experience reporting issues, status and estimates to peers and management.
+Preferred
+• Experience working in the financial services industry
+• Experience supporting a multi- application integrated environment.
+Personal Attributes: *
+• Strong commitment to deliver quality solutions and projects.
+• Ability to handle autonomous projects in a complex cross application environment.
+• Ability to work effectively as a team member in larger ‘virtual’ projects.
+• Capability to communicate benefits and limitations of IT applications management.
+• Creative, structured and analytical in developing application solutions.
+Company*
+HWA International is a 46 year old Bartlett company. It has an immediate opening for a programmer/developer to support its financial applications that are marketed throughout the U.S. Candidate must be a self-starter and have the background necessary to become part of this team. Ex. Salary, 401K Plan, Cafe Plan, Heath & Dental Ins., 19 days off first year! For consideration, please email your resume.
+Website: *
+www.hwainternational.com
+
+Job Type: Full-time
+
+Pay: $50,000.00 - $80,000.00 per year
+
+Benefits:
+401(k)
+401(k) Matching
+Dental Insurance
+Disability Insurance
+Flexible Spending Account
+Health Insurance
+Paid Time Off
+Retirement Plan
+Schedule:
+Monday to Friday
+COVID-19 considerations:
+To keep our employees as safe as possible, each employee will have a private office and the availability of hand sanitizers, gloves, and masks.
+
+Experience:
+programming: 5 years (Required)
+Education:
+Bachelor's (Required)
+Location:
+Memphis, TN 38133 (Required)
+Language:
+English (Required)
+Additional Compensation:
+Bonuses
+Work Location:
+One location
+Relocation Assistance Provided:
+No
+Company's website:
+www.hwainternational.com
+Benefit Conditions:
+Waiting period may apply
+Only full-time employees eligible
+Work Remotely:
+No",,"HWA International, Inc.","Memphis, TN",,Unknown,,Company - Private,,,Less than $1 million (USD),
+Software Developer Lead,,"Description:
+
+As one of the fastest growing logistics providers in the country, NSD is a recognized leader in in-home and business delivery solutions. Today, our nationwide delivery network consists of over 200 terminals, ensuring unsurpassed levels of service and an exceptional home delivery experience. We deliver to all U.S. zip codes providing consistent nationwide service and the highest level of brand protection.
+
+Come join our growing team! The Development Lead will be a part of a team working to develop, manage, and architect scalable solutions that further NSD’s strategic goals. This position will be responsible for leading a team of developers, continuously driving improvement in processes, and growing the development team. Technologies will include SQL, RESTful APIs, ETL/ELT, and mobile/web development (HTML, CSS, JavaScript, Vue.js, PHP/Joomla, Django).
+
+Responsibilities
+
+• Take an active role in requirements gathering, solutions design, architecture, development, and deployment of web and mobile products
+
+• Work with Business Technology Office on consumer and internal product requests
+
+• Oversee the development and release of quality code that adheres to best practices.
+
+• Lead, manage, coach, train and motivate a high-performing development team.
+
+• Assist in translating seemingly disparate business processes to the development staff by connecting and streamlining with
+
+technology solutions, often of various disciplines
+
+• Be an active participant in refining and improving development methodologies (Sprint v. Kanban, Agile v. DevOps v. XP, etc.)
+
+• Manage code repositories and ensure disciplined use of code management.
+
+. Requirements:
+
+• 5+ years working as a software engineer lead or solutions architect role
+
+• Proven track record of quality delivery.
+
+• Must have experience with multiple database platforms and a variety of different technologies and coding languages including but not limited to:
+
+DB2, MSSS, MySQL, Postgres, PHP, Javascript, Python, Powershell, SQL
+
+• History of progressive team leadership and peer mentoring
+
+• Demonstrable history of learning the business on which the technology is being developed
+
+• Outstanding time management, organizational and communication skills.
+
+• A passion for getting things done regardless of the roadblock.
+
+EOE M/F/D/V
+
+NOTE: This job description is not intended to be all inclusive, Employee must perform other related duties as negotiated to meet the ongoing needs of organization",2.7,"Nonstopdelivery Com Inc
+2.7","Chantilly, VA",,51 to 200 Employees,2000,Company - Private,Logistics & Supply Chain,Transportation & Logistics,$50 to $100 million (USD),
+PHP Javascript Developer,,"*About the Position*
+
+FINAO is seeking a new team member who has the right mix of knowledge, skills, and interest in website development. We are an e-commerce B2B manufacturer of products exclusively sold to professional photographers, and we work hard to help support their success.
+
+The candidate we choose will play a key role within our IT team.
+
+*What You Bring to the Table*
+
+Current and relevant skills through an Associates or Bachelor’s degree or equivalent experience. We expect that you will provide value to the team and come prepared with a diverse and practical skill set.
+
+*Requirements*
+
+*General and Diverse Knowledge of: *
+
+*PHP/JavaScript/LAMP*
+
+Additional Skills that are helpful but not required:
+
+Node.JS, NPM, AWS/Lambda, PSR, GitHub, Composer/Packagist, REST and Systems Administration
+
+*All applicants must submit a cover letter and resume. * Links to websites you have contributed to is a great way to enhance your application for consideration.
+
+*Benefits*
+
+* Salaried, full-time position. Range TBD, in keeping with education, skills, and experience.
+* Regular hours from 10 AM-6:00 PM, Monday-Friday. Some additional time required during peak periods.
+* Local office location.
+* Comprehensive health care plan, 50% paid with the option to purchase for family members.
+* Dental and Vision insurance available.
+* A 401K plan is available.
+* Paid time off for vacation, sick leave, and standard holidays.
+
+*COVID-19 considerations: *
+
+We follow the State of Michigan and CDC guidelines regarding health and safety. This includes work from home, requiring masks, social distancing, cleaning commonly touched surfaces throughout the day as advisable or mandated.
+
+Job Type: Full-time
+
+Pay: $40,000.00 - $50,000.00 per year
+
+Benefits:
+* 401(k)
+* Dental insurance
+* Health insurance
+* Paid time off
+* Vision insurance
+Schedule:
+* Monday to Friday
+
+Work Location:
+* One location
+
+This Company Describes Its Culture as:
+* Detail-oriented -- quality and precision-focused
+* Outcome-oriented -- results-focused with strong performance culture
+* Team-oriented -- cooperative and collaborative
+
+Benefit Conditions:
+* Waiting period may apply
+
+Work Remotely:
+* No",,Finao Online LLC,"Saline, MI",,51 to 200 Employees,,Company - Private,Miscellaneous Manufacturing,Manufacturing,Less than $1 million (USD),
+Full Stack Developer,,"Overview:
+This year we are celebrating 65 years as a family owned company. Also recognized by Forbes Magazine for the second year in a row as one of America’s Best Mid-size Employers.
+
+Come celebrate with us! We are growing...43 stores across WI, IL, IA, MI!
+
+Apply here or by texting BFF to 97211
+Responsibilities:
+
+We are seeking: a highly motivated Full Stack Developer to join our MIS team in Janesville, WI. This person must be able to create, design, implement and maintain web applications to meet company needs.
+
+Minimum experience: 5 years
+
+Responsibilities:
+
+Develop front end website architecture
+Design user interactions on web pages
+Develop back end website applications
+Create database solutions that support application functionality
+Ensure responsiveness of applications
+Involvement with projects from conception to finished product
+Design and develop APIs
+Stay abreast of industry trends of development in web applications and programming languages and vendor packages
+Contribute to the ongoing evolution of the existing content supply portfolio of applications and services
+Design, develop, modify, implement, and support software components anywhere in the software stack
+Determine process improvements, best practices, and develop new processes
+Work in close partnerships with cross-functional teams and management
+Qualifications:
+
+Excellent understanding of front-end technologies and platforms - JavaScript, HTML5, CSS3
+Bootstrap or other responsive frameworks
+Experience building applications using .NET Framework (C#)
+ASP.NET MVC
+Microsoft SQL Server, utilizing stored procedures
+Demonstrate a strong sense of ownership for the application being developed
+
+Other Skills (Not Required):
+
+JavaScript frameworks React JS & Redux, Angular, or Vue
+Git
+Xamarin
+SSIS
+SSRS
+
+Further Requirements:
+
+Excellent analytical skills
+Ability to read and speak English and communicate with customers and coworkers
+Ability to learn and perform all primary job functions within the adjustment period
+Ability to function as a team member and work under specific work directions
+You must value a safe working environment and follow our safety guidelines
+
+#ind3
+
+Job Class: Corporate Office",3.4,"Blain Supply, Inc.
+3.4","Janesville, WI",,1001 to 5000 Employees,1955,Company - Private,Other Retail Stores,Retail,Unknown / Non-Applicable,
+Automation Engineer,,"Stage 2 Security is seeking an experienced Automation Engineer to be part of a global team supporting our client's cloud systems.. The successful candidate will be a self-starter with a proven track record of delivering exceptional results. This role will work collaboratively with engineering and operations teams to drive positive outcomes for our business partners.
+
+Typical duties, or skills may involve:
+
+Support product engineering and operations teams in the development and deployment of monitoring solutions.
+
+Drive adoption and optimization of observability systems.
+
+Support service management and product teams through developing automation of complex workflows.
+
+Contribute to the development of new features for our core automation tools.
+
+Build and maintain a deep understanding of technologies and methods and how to instrument, monitor, and automate them.
+
+Facilitate the sharing of knowledge and experience across teams to enable effective use of our tools and solutions.
+
+Build custom-developed dashboards and alerting.
+
+Participate in problem management by identifying and closing gaps in monitoring and workflows.
+
+Integrates data analytics platform with other solutions.
+
+Qualifications and requirements may involve:
+
+Development experience in one or more of the following languages – Java, PHP, JavaScript, Python
+
+Five years or more of solution design and deployment work in a SaaS environment.
+
+Hands-on experience with monitoring tools such as – New Relic, Nagios, Splunk, Prometheus is a plus.
+
+Experience developing solutions on the ServiceNow platform
+
+Strong technical background and customer orientation
+
+Specific experience in Application Performance Management (APM) concepts is a plus.
+
+Experience implementing and supporting solutions built on cloud platforms such as AWS and Azure
+
+Excellent organizational, communication, critical thinking & analytical skills
+
+Bachelor degree in Engineering/Computer Science or equivalent experience
+
+Understands a variety of IT products and protocols to integrate disparate solutions, such as routing and switching, software development, Linux, Windows, and/or cloud computing
+
+Excellent communication skills
+
+Powered by JazzHR
+
+JW52CdWFnL",,Stage 2 Security,"Lehi, UT",,,,,,,,
+Technical Solutions Engineer,,"Do you want to get a foot in the door at an online Advertising and Media company that has seen tremendous growth? Do you want to work in the world of online video; one of the fastest growing advertising formats in the world? Then Playwire is the place for you…
+
+Playwire Media is a full-service digital innovation partner that leverages online advertising and proprietary technologies to build publishing brands in the gaming and entertainment verticals.
+
+To keep pace with our explosive growth, we are currently seeking a Technical Solutions Engineer. The Technical Solutions Engineer has two primary roles. First, the Engineer aids in the ongoing development and enhancement of Playwire’s client-side, browser-based products, focused on the delivery of high-quality advertising units on behalf of Playwire’s customers. Second, the Engineer provides custom solutions for those customers, filling in the gap in cases where customers have a need for more than a simple technology deployment, but where Playwire does not yet offer a product that precisely fits their needs. We want people who are disciplined but also creative, and unafraid to jump into projects that will be seen and used by millions of people. Serious applicants should have experience doing more than just converting mockups into working pages: you should understand what it means to develop a complicated application or widget using JavaScript. You'll immediately be an important member of a development team with a wide variety of responsibilities and opportunities. You’ll also work side-by-side with our Technical Solutions team, which is primarily responsible for making sure our customers’ technical needs are met.
+Essential functions: *
+• Research and identify solutions to technical issues.
+
+• Work with Technical Solutions team to determine when a custom solution is needed, and to scope out and deliver that solution.
+
+• Work with the rest of the client-side development team to turn promising solutions into fully-supported parts of our core technical product line.
+
+• Provide a professional, positive experience for our customers, building relationships with them.
+Required qualifications: *
+• Advanced knowledge of JavaScript with a strong understanding of JavaScript fundamentals. Must demonstrate ability to write JavaScript without reliance on frameworks.
+
+• Knowledge of common design patterns and how they can be applied to JavaScript.
+
+• Experience with HTML5 and CSS3.
+
+• Experience with responsive design and cross-platform scripting for desktop/mobile.
+
+• An understanding of source control, particularly git and Github.
+
+• Experience working directly with customers, accompanied by strong communications skills.
+Nice-to-haves: *
+• Experience with video for the web, particularly HTML5 video.
+
+• Experience with JavaScript designed to be embedded in third-party Web pages.
+
+• Experience with advertising units, terminology and standards, such as VAST and VPAID.
+
+• Experience with the use of modular JavaScript.
+
+• Knowledge of unit testing methodologies, particularly as applied to JavaScript development.
+
+• Experience working in a team using Agile development and project management practices.
+
+• A background in QA, testing, and/or customer support.
+
+Job Type: Full-time
+
+Benefits:
+401(k)
+Health insurance
+Schedule:
+8 hour shift
+Experience:
+HTML5: 3 years (Required)
+Customer Service: 5 years (Preferred)
+JavaScript: 5 years (Required)
+CSS3: 2 years (Required)
+git and Github: 1 year (Required)
+Work Location:
+One location
+Company's website:
+https://www.playwire.com/
+Benefit Conditions:
+Waiting period may apply
+Work Remotely:
+Temporarily due to COVID-19",3.3,"Playwire Media
+3.3","Boca Raton, FL",,51 to 200 Employees,,Company - Private,,,Less than $1 million (USD),
+Developer,,"At LPL Financial we consider it our mission to take care of our advisors so they can take care of their client. Joining the Technology business unit, you will be responsible for planning, directing projects to help design, build and maintain the sustainable, scalable capabilities that support delivery of the highest standards of software products, processes. This role will also include responsibility for leading special projects to drive more quality, scope, and scale in the offering and provide technical leadership to other team members.
+
+Responsibilities
+
+Design, develop, test and implement technical solutions based on business requirements and strategic direction.
+Provide technical leadership to teammates through technical design, code reviews and implementation of best practices, adhering to firm’s SDLC and release processes.
+Collaborate with other Development teams, Enterprise Architecture and Support teams to design, develop, test and maintain the various platforms and their integration with other systems.
+Assess opportunities for application and process improvements and prepare documentation outlining platform road map.
+Maintain, troubleshoot, optimize and enhance existing systems.
+Communicate with technical and non-technical groups on a regular basis as part of product/project support.
+
+Qualifications:
+
+Tech resource with 5+ years of experience in designing and implementing complex systems, including developing solutions from scratch.
+Full- stack developer with 8+ years of experience designing interactive web applications, developing web services (REST/SOAP) and integrating with vendor APIs.
+Excellent understanding of system integration. Great track record of implementing the distributed systems with legacy and modern technical tools.
+Must have experience integrating the system over HTTP, JMS or other distributed technologies.
+Expertise with MS SQL. Should be able to write efficient queries in MS SQL Should be well verse with query troubleshooting and optimization tools available in SQL Server platform.
+Excellent verbal and written communication skills, both technical and non-technical.
+Strong analytical and problem-solving skills.
+Motivated and driven by achieving long-term business outcomes.
+
+Skills and Knowledge:
+
+Extensive full-stack development experience with the following technologies: .NET framework, C#, Java, JavaScript, Angular JS, SQL, , TIBCO EMS, JMS
+Capable of effectively planning, prioritizing and executing tasks utilizing resources and tools
+Experience working with continuous integration and delivery
+Experience working with source control tools like TFS, GIT, Octopus, TeamCity etc.
+.NET framework, C#, Java, JavaScript, MVC, Angular JS, SQL, Mule Services, TIBCO EMS, JMS
+
+Why LPL?
+
+At LPL, we believe that objective financial guidance is a fundamental need for everyone. As the nation’s leading independent broker-dealer, we offer an integrated platform of proprietary technology, brokerage, and investment advisor services. We provide you with a work environment that encourages your creativity and growth, a leadership team that is supportive and responsive, and the opportunity to create a career that has no limits, only amazing potential.
+
+We are one team on one mission. We take care of our advisors, so they can take care of their clients.
+
+Because our company is not too big and not too small, you can seize the opportunity to make a real impact. We are committed to supporting workplace equality, and we embrace the different perspectives and backgrounds of our employees.We also care for our communities, and we encourage our employees to do the same. This creates an environment in which you can do your best work.
+
+Want to hear from our employees on what it’s like to work at LPL? Watch this!
+
+We take social responsibility seriously. Learn more here
+
+Want to see info on our benefits? Learn more here
+
+Join the LPL team and help us make a difference by turning life’s aspirations into financial realities. Please log in or create an account to apply to this position. Principals only. EOE.
+
+Information on Interviews:
+
+LPL will only communicate with a job applicant directly from an @lpl.com email address and will never conduct an interview online or in a chatroom forum. During an interview, LPL will not request any form of payment from the applicant, or information regarding an applicant’s bank or credit card. Should you have any questions regarding the application process, please contact LPL’s Human Resources Solutions Center at (800) 877-7210.",3.7,"LPL Financial
+3.7","Austin, TX",,1001 to 5000 Employees,1968,Company - Public,Investment Banking & Asset Management,Finance,$2 to $5 billion (USD),
+Software Developer 3,,"Providence St. Joseph Health is calling a Software Developer 3 to our location in Beaverton, OR.
+
+We are seeking a Software Developer 3 to be a member of an Agile software development team (Scrum or Kanban) in the PHP Information Services (IS) Department. As senior software developer they will be expected to work well within their agile team, foster collaboration, mentor teammates and other members of the IS Department, and provide opinion and expertise on technical issues all while embracing Agile Principles and Values.
+
+The Software Developer 3 performs a variety of technical administration, development, and support functions for Information Services. Works with customers, vendors, consultants and other Information Services staff in performing their duties. On-call support is a requirement for any Developer position. Developers are required to provide 24/7 on-call support on a rotational basis.
+
+In this position you will have the following responsibilities:
+
+Working as an effective team member in an Agile Scrum or Kanban team.
+Providing technical expertise and mentoring to their fellow Agile team members and members of other teams.
+Gather and analyze complex business requirements.
+Specify and implement technical plans for complex solutions.
+Combine business and technical knowledge to gain agreement and implement solutions within cross-functional teams.
+Verify correctness of software using manual and automated testing strategies.
+Verify performance of software using load testing and other strategies.
+
+Qualifications:
+
+Required qualifications for this position include:
+
+Associate Degree plus 6 years of demonstrated software development experience in an enterprise environment OR;
+Bachelor's Degree plus 4 years of demonstrated software development experience in an enterprise environment OR 6 year degree plus 2 years of demonstrated software development experience in an enterprise environment OR
+8 years demonstrated software development experience in an enterprise environment.
+
+Preferred qualifications for this position include:
+
+3 Years of experience working with Visual Studio, C#, .NET Framework, ASP.NET and Angular JS
+3 Years of experience with fundamental front end languages such as HTML, CSS, Typescript and JavaScript
+Good understanding of AJAX, and JavaScript DOM manipulation techniques
+Strong SQL knowledge and ability to write or work with StoredProcedures and Functions in MS SQL environments
+Demonstrated experience working with WebServices
+Preferred exposure to working with JSON, large XML’s and Transformations
+Experience working with Team Foundation Server, SourceSafe or other source control programs including Git
+Demonstrated experience in debugging and troubleshooting legacy code base
+Previous work experience in Agile Methodologies
+Exposure to DevOPS and CI/CD preferred.
+Demonstrated experience of participating in team projects while having the ability to work independently on assignments as well
+Critical thinker and expert problem solving skills
+Excellent organizational and communication skills
+
+About the department you will serve.
+
+Providence Shared Services provides a variety of functional and system support services for our Providence family of organizations across Alaska, California, Montana, New Mexico, Oregon, Texas and Washington. We are focused on supporting our Mission by delivering a robust foundation of services and sharing of specialized expertise.
+
+For information on our comprehensive range of benefits, visit:
+
+http://www.providenceiscalling.jobs/rewards-benefits/
+
+Our Mission
+
+As expressions of God’s healing love, witnessed through the ministry of Jesus, we are steadfast in serving all, especially those who are poor and vulnerable.
+
+About Us
+
+Providence is a comprehensive not-for-profit network of hospitals, care centers, health plans, physicians, clinics, home health care and services continuing a more than 100-year tradition of serving the poor and vulnerable. Providence is proud to be an Equal Opportunity Employer. Providence does not discriminate on the basis of race, color, gender, disability, veteran, military status, religion, age, creed, national origin, sexual identity or expression, sexual orientation, marital status, genetic information, or any other basis prohibited by local, state, or federal law.
+
+Schedule: Full-time
+
+Shift: Day
+
+Job Category: Development
+
+Location: Oregon-Beaverton
+
+Req ID: 259856",3.5,"Providence Health & Services
+3.5","Beaverton, OR",,10000+ Employees,1855,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$100 to $500 million (USD),
+CA Plex Developer,,"Job Description*
+Company is seeking an experienced CA Plex Developer to fill a full time position in New Orleans, LA.
+
+Candidates should have at a minimum, 3 years of experience with CA Plex. Additional background in SQL Server, Web Client and Java development is a plus.
+Required Qualifications: *
+CA Plex v6.1 or higher
+SQL Server and/or DB2/400
+Web Services (SOAP, REST, WCF)
+One or more of the following: Java, C#, HTML5, Sencha Touch, JavaScript, Mobile
+Ability to manage multiple, concurrent projects and priorities.
+Familiarity with test practices for unit test and system test.
+Experience with and ability to deliver complete documentation for estimates, design and development
+Ability to complete impact analysis across multiple platforms and applications integrated into both internal and external applications and processes.
+Job Type: Full-time
+
+Experience:
+CA Plex Development: 3 years (Preferred)
+Location:
+New Orleans, LA (Preferred)",,Confidential- Logistics,"New Orleans, LA",,,,,,,,
+Full Stack Web Developer,,"Imagine what you could do here. At SnackCrate, new ideas have a way of becoming extraordinary products, services, and customer experiences very quickly. Bring passion and dedication to your job and there's no telling what you could accomplish!
+
+The people here at SnackCrate don’t just sell snacks — they build the kind of monthly surprise only SnackCrate can provide.
+
+As an engineer in the web development team, you will be part of a team-building infrastructure and tools for exciting new things at SnackCrate. We build web services that work at scale to support new products and also enable development workflows. We are looking for a full stack developer who can build APIs, back-ends, and tools that interact with cutting-edge hardware and other web services. You will be part of every stage of development from concept to deployment.
+
+If you're passionate about the user experience, want to be part of a group that works on very early stage products, have the opportunity to shape them, and enjoy crafting robust, scalable, and maintainable services, we may be the team for you!
+
+Key Qualifications
+Excellent PHP development experience.
+Expertise with cloud services, such as AWS
+Full-Stack web development, including JavaScript, web-standards, and
+modern frameworks.
+Expertise in building highly available production services, including
+deployment automation, infrastructure-as-code, monitoring, and scaling.
+Good understanding of containers, build systems, and infrastructure
+
+automation.
+Description
+Develop and maintain highly reliable and scalable web services and UIs that enable users to interact with SnackCrate products.
+Understand product requirements, engage with team members and customers to define solutions, and estimate the scope of work required.
+Collaborate with, mentor, and influence members within your team and across other teams at SnackCrate.
+Deliver solutions that can keep up with a rapidly evolving product in a timely fashion.
+Education and Experience
+BS/MS in Software Engineering or Equivalent Experience",3.9,"SnackCrate, Inc.
+3.9","Denver, CO",,201 to 500 Employees,2015,Company - Private,Food & Beverage Stores,Retail,Unknown / Non-Applicable,
+Full Stack Developer,,"OmniResponse is a technology development firm with a presence in Texas, Wisconsin and Michigan. We are a business software solutions company that utilizes telemetry hardware to connect businesses with the information they need the most for everyday decisions. Our flagship product is the OmniResponse Platform (www.omni-response.com), specializing in customized telemetry solutions. We have built out this platform to offer superior safety monitoring/tracking of people, vehicles, assets and more. The solution includes mobile, embedded and web applications to ensure situational awareness and real-time response. We have unique developments in indoor location tracking, radio integration, gun shot detection solutions and more. We use agile development processes to build on our OmniResponse platform. We're committed to working with innovative and passionate people. We need team players who can go above and beyond their individual responsibilities to help the company accomplish its mission. If you are a creative and hard-working person interested in working with a close-knit group of highly talented people, OmniResponse is the right place for you!
+
+We are currently looking to add a Full Stack Software Engineer to our team, with an emphasis on .NET MS development. The ideal candidate is passionate about technology and excels in web application development in particular. This individual will provide a high level of service and support to our multiple brand operations and should have a proven track record of developing and supporting dynamic websites and online applications. The focus of this position is on front-end development. However, there is an opportunity also to work on back-end development if desired.
+Requirements and Development Skills: *
+Experience with version control systems (Git, DevOps, etc.)
+Experience with a Visual studio development environment
+Working with REST APIs, Creating/parsing data in various formats
+Working with various data transfer protocol
+Experience with object oriented programming languages
+Expertise with .NET MVC4, HTML5, JavaScript, jQuery, CSS, bootstrap
+Experience with SQL queries and any relational database systems
+Integrating multiple applications together and transferring data back and forth
+Experience with mobile web development
+Knowledge of responsive design
+Essential Attitude, Skills and Experience: *
+Bachelor’s / Master’s Degree in computer science, engineering or mathematical field of study; At least 2 of recent professional web programming work experience
+Working in a agile work environment
+Working in a development team of more than five individuals
+Working on live web applications that businesses rely upon
+Ability to work with other team members to estimate effort, propose and work towards realistic delivery milestones, deliver quality software at a fast pace.
+Ability to work with and communicate clearly with non-technical end user
+Ability to thrive in a fast-paced, dynamic environment while being able to maintain a high quality bar
+Realistically estimating how long tasks take to reach objectives
+Must be flexible and able switch from one project or task to another easily
+Desire and willingness to learn new technology and tools
+Be results-oriented with strong independent time management skills
+Ability to think creatively to find unique solutions
+Ability to troubleshoot large scale production systems
+A passion to use technology to solve business challenges
+Ability to identifying when you are stuck or road blocked so you can be supported by the team
+Compensation and Benefits: *
+Standard Benefits:
+Excellent Salary Package
+Paid Time Off and Flex Time Benefits
+This is only for direct full-time candidates in Texas *
+This is NOT for agencies, contract work, or recruiters.*
+Must have authorization to work in the US without sponsorship.*
+Job Type: Full-time
+
+Pay: $55,000.00 - $90,000.00 per year
+
+Benefits:
+Flexible schedule
+Paid time off
+Schedule:
+Monday to Friday
+Education:
+Bachelor's (Preferred)
+Willingness To Travel:
+25% (Preferred)
+Work Location:
+One location
+Work Remotely:
+No",,OmniResponse,"El Paso, TX",,,,,,,,
+Software Developer,,"Come join a growing financial technology company that’s leading the marketplace in both the marketing and servicing of credit cards!* Continental Finance Company specializes in credit card options for those consumers with less than perfect credit. We are seeking a Software Developer to support out Information Technology team.
+As a full stack Software Developer at CFC, you will be exposed to all facets of the business and be encouraged to learn and develop skills both within and beyond your role. You’ll be working in the highly collaborative office developing and working with machine learning technology, surrounded by passionate, high-performing individuals to solve complex problems and make a meaningful impact on the business!
+Essential Functions: *
+· Designing, coding, testing, debugging, and supporting both Web and Windows Applications using a variety of Microsoft technologies, including .*Net, C# and SQL Server*.
+
+· Working with *Amazon Web Services (AWS)* or a comparable cloud services provider
+
+· Application development (coding & programming with *C#, SQL Server*)
+
+· Developing, refining, and tuning integrations between applications. Analyzing and resolving technical and application problems
+
+· Providing analysis & troubleshooting for production issues & code deployment activity
+
+· Contributing to user interface design and development
+
+· Learning new technologies and keeping abreast of existing technologies and applying these to a variety of projects as applicable.
+
+· You will be encouraged to take initiative to find opportunities for application and process improvement and prepare documentation of rationale to share with team members and other affected parties.
+The ideal candidate will have the following: *
+· Bachelor’s Degree in Computer Science, Engineering or a related field; or equivalent education/experience in a computer science field
+
+· Minimum 7 years' experience as a Software Developer, Software Engineer or similar role utilizing *Microsoft technologies*
+
+· Strong experience with *C# programming language* and/or other .*NET languages*
+
+· Knowledge of web service concepts (*REST, JSON, XML*).
+
+· Knowledge of *SQL Server technologies* and experience developing database applications using SQL server.
+
+· Strong *object-oriented programming* and design skills
+
+· Familiarity with *Agile* development methodologies
+
+· Demonstrated knowledge of Microsoft development technologies, including *.Net, C#, MVC.Net and SQL Server. and frameworks/systems (e.g. AngularJS, Git)*
+
+· Experience with web services and web API development.
+
+· Extensive experience with unit and integration testing.
+
+· Experience analyzing and resolving technical issues.
+
+· Knowledge of web technologies, such as HTML, CSS and Javascript.
+
+· Ability to learn new languages and technologies
+
+· Demonstrated understanding of projects from the perspective of both client and business
+
+· Strong attention to detail
+
+· Ability to meet deadlines and drive projects through to completion
+
+· Resourcefulness and troubleshooting aptitude
+
+· Strong critical thinking and problem-solving skills
+
+Job Type: Full-time
+
+Pay: $80,000.00 - $100,000.00 per year
+
+Benefits:
+401(k)
+Dental insurance
+Health insurance
+Life insurance
+Paid time off
+Vision insurance
+Schedule:
+Monday to Friday
+Experience:
+Software Development: 7 years (Preferred)
+C#: 2 years (Preferred)
+Education:
+Bachelor's (Preferred)
+Location:
+Wilmington, DE 19808 (Required)
+Work authorization:
+United States (Required)
+Work Location:
+One location
+Visa Sponsorship Potentially Available:
+No: Not providing sponsorship for this job
+Benefit Conditions:
+Waiting period may apply
+Only full-time employees eligible
+Work Remotely:
+Temporarily due to COVID-19",4.1,"Continental Finance Company, LLC
+4.1","Wilmington, DE",,51 to 200 Employees,2005,Company - Private,Lending,Finance,Unknown / Non-Applicable,
+"Software Developer, Senior",,"Secure our Nation, Ignite your Future
+
+Become an integral part of a diverse team while working at an Industry Leading Organization, where our employees come first. At ManTech International Corporation, you’ll help protect our national security while working on innovative projects that offer opportunities for advancement.
+
+Currently, ManTech is seeking a motivated, career and customer-oriented Senior Software Developer to join our team in Hanover, MD.
+
+Responsibilities include, but are not limited to:
+
+Performing system and subsystem definition, preliminary and detailed design, design implementation, and subsystem and system integration and tests for a system.
+Participating in software requirement review, preliminary and critical design, integration readiness review, and software acceptance review.
+Researching the marketing requirements for a product, including target environment, performance criteria, and competitive issues.
+Interacting with senior customer personnel on significant technical matters, often requiring coordinated activity across organizational lines.
+Providing technical guidance to lower level software engineers.
+Designing ideas for new capabilities or recommendations for improvements to existing capabilities.
+Demonstrating expert knowledge of multiple programming languages such as Java, Python, or PERL.
+Demonstrating knowledge of multiple software development methodologies (e.g. Scrum, TDD, Waterfall).
+Demonstrating expert level knowledge of security concepts, networks, device drivers, & system internals are applied in daily tasks.
+Demonstrating expert knowledge in at least one technology area (e.g. Windows, Unix, Mobile, Network devices).
+Communicating status with leadership and customers.
+Contributing to the completion of milestones associated with specific projects.
+Providing solutions to a variety of complex technical problems.
+Determining computer user needs; analyzes system capabilities to resolve problems on program intent, output requirements, input data acquisition, programming.
+Ensuring software standards are met.
+Leading the design, development, documenting, testing and debugging of applications software and systems that contain logical and mathematical solutions.
+Leading a project developing hardware or software based CNO capabilities providing direction to other CNO developers.
+Planning and conducting assignments, generally involving the larger and more important projects or more than one project.
+
+Basic Qualifications:
+
+6 years of programming required
+Experience with build environments such as Gradle and Maven
+Developing software to satisfy customer requirements
+Debugging software and troubleshooting
+Software design and architecture
+Experience with Object Oriented Analysis and Design
+Familiarity with Version Control
+Knowledge of SQL-based databases, preferably Oracle, and/or NoSQL data stores, such as MongoDB
+Knowledge of agile software development methodology
+Knowledge of XML and XSLT
+Bachelor's Degree (in Computer Science or related field) or 8 years of related experience in lieu of the degree.
+
+Preferred Qualifications:
+
+MicroServices
+Hibernate/JPA
+Concurrency
+Angular.js or similar JavaScript GUI frameworks
+Java with Spring/Springboot
+Subversion and/or Git experience
+Experience using VMWare (preferably ESX)
+
+Clearance Required:
+
+Active TS/SCI with Polygraph is required to be considered.
+
+Physical Requirements:
+
+Must be able to remain in a stationary position 50%
+Constantly operates a computer and other office productivity machinery, such as a calculator, copy machine and computer printer.
+The person in this position frequently communicates with co-workers, management and customers, which may involve delivering presentations
+Working with Data
+Move about freely in a laboratory setting
+Repetitive Motions
+
+ManTech International Corporation, as well as its subsidiaries proactively fulfills its role as an equal opportunity employer. We do not discriminate against any employee or applicant for employment because of race, color, sex, religion, age, sexual orientation, gender identity and expression, national origin, marital status, physical or mental disability, status as a Disabled Veteran, Recently Separated Veteran, Active Duty Wartime or Campaign Badge Veteran, Armed Forces Services Medal, or any other characteristic protected by law.
+
+If you require a reasonable accommodation to apply for a position with ManTech through its online applicant system, please contact ManTech's Corporate EEO Department at (703) 218-6000. ManTech is an affirmative action/equal opportunity employer - minorities, females, disabled and protected veterans are urged to apply. ManTech's utilization of any external recruitment or job placement agency is predicated upon its full compliance with our equal opportunity/affirmative action policies. ManTech does not accept resumes from unsolicited recruiting firms. We pay no fees for unsolicited services.
+
+If you are a qualified individual with a disability or a disabled veteran, you have the right to request an accommodation if you are unable or limited in your ability to use or access http://www.mantech.com/careers/Pages/careers.aspx as a result of your disability. To request an accommodation please click careers@mantech.com and provide your name and contact information.",4.2,"ManTech International Corporation
+4.2","Hanover, MD",,5001 to 10000 Employees,1968,Company - Public,Research & Development,Business Services,$1 to $2 billion (USD),
+AVP Cyber Risk Institute,,"The Cyber Risk Institute (CRI) is a not-for-profit coalition of financial institutions and trade associations, protecting the global economy by enhancing cybersecurity and resiliency through standardization. Our Financial Services Cybersecurity Profile tool is the benchmark for cyber security and resiliency in the financial services industry. As an organization, CRI maintains the Profile and is guided by our membership of over thirty leading financial services firms around four key lines of effort – expanding the Profile’s use among industry, educating the regulatory community on the Profile to drive their acceptance, integrating additional regulations into the Profile to expand its reach, and developing the Profile into an online Platform.
+
+CRI is a separate division of the Bank Policy Institute (BPI) and often works with BPI’s BITS team. Launched in May 2020, CRI is building a lean, highly collaborative staff. This position is traditionally located in Washington, D.C. but can also be remote (with the ability to travel to D.C. as required post-pandemic).
+Responsibilities: *
+The AVP CRI will support the development and implementation of CRI by handling technical, program, and administrative/project management functions within CRI. This individual will interface directly with executive and/or C level personnel from CRI’s member institutions, facilitating their contributions to various CRI Committees, working groups, and workstreams. The AVP CRI would lead these individuals in developing and integrating financial services cyber standards and regulations into the Profile. As part of that responsibility, the AVP CRI will:
+
+· Serve as the primary interface with standards development organization personnel from organizations such as NIST and ISO.
+
+· Ensure the Profile is formatted to be integrated into various governance, risk and compliance platforms by converting the Profile into application formats such as Java Script Object Notation (JSON) and other relevant interface formats.
+
+· Research and analysis on assigned issues and projects, such as identifying and tracking relevant consultations and comment periods of interest to CRI’s mission and membership such as Federal Register notices for NIST and financial services regulatory agencies (FFIEC, FRB, OCC, FDIC, NCUA, SEC, CFTC).
+
+· Drafting and/or editing CRI collateral documents – such as official letters, website content, external communications and briefing material, and internal records.
+
+· Recording formal minutes or informal notes for specific meetings.
+
+· Monitoring and managing CRI Committee and working group schedules.
+Qualifications*
+As a new addition to a small team, this role requires an individual who is a self-starter, capable, flexible, and innovative, and possesses strong communication skills and critical thinking. This person would be capable of working independently as well as part of a team. Additional qualifications include:
+
+· A bachelor’s degree in a relevant field.
+
+· Working knowledge of MS Excel macro creation and how to format Spreadsheet documents into the JavaScript Object Notation (JSON) format and other relevant interface formats.
+
+· Detailed technically oriented mind with comfort in performing research work.
+
+· Comfortable exploring new technology and the building of “apps.”
+
+· Able to communicate effectively whether in-person or when remote.
+
+· Experience or interest in project management, operations and/or administration management.
+
+· A background or interest in cybersecurity policy, financial services, financial services technology, and project management is preferred.
+
+Job Type: Full-time
+
+Pay: $30.00 - $45.00 per hour
+
+Benefits:
+401(k)
+401(k) matching
+Dental insurance
+Disability insurance
+Employee assistance program
+Flexible schedule
+Flexible spending account
+Health insurance
+Life insurance
+Paid time off
+Parental leave
+Professional development assistance
+Retirement plan
+Tuition reimbursement
+Vision insurance
+Schedule:
+Monday to Friday
+Supplemental Pay:
+Bonus pay
+Experience:
+Program Management: 3 years (Preferred)
+project management: 3 years (Preferred)
+Work Location:
+One location
+Company's website:
+www.bpi.com
+Work Remotely:
+Temporarily due to COVID-19",4.1,"BPI
+4.1","Washington, DC",,1 to 50 Employees,2008,Company - Private,Consulting,Business Services,Unknown / Non-Applicable,
+Software Test Engineer,,"About Us
+SURVICE Engineering is nationally recognized as a single-source provider for Government and industry organizations involved in all phases of the systems engineering process. We're proud to have supported the development, testing, and analysis of many of the major U.S. combat systems in the field today.
+
+Position Summary
+SURVICE is seeking to hire a full-time Software Test Engineer to perform software testing in all phases of the application development, test, release, integration, and maintenance lifecycle.
+
+Primary Duties & Responsibilities
+
+Write test plans, test procedures, and test reports
+Conduct software testing utilizing a variety of software test tools
+Execute test scripting and command line tools in UNIX, Linux, and Windows environments
+Test applications developed in C/C++, Java, SQL, Python, Ruby on Rails, JavaScript, and Qt
+Test software that has been written and documented in accordance with MIL-STD-498
+Test software that must comply with RTCA/DO-278A (Software Integrity Assurance Considerations for Communication, Navigation, Surveillance and Air Traffic Management (CNS/ATM) Systems) as well as DO-332 (Object-Oriented Technology and Related Techniques)
+
+Minimum Qualifications
+Bachelor's degree in computer science, math, or engineering, is preferred. Minimum of 5 years of experience in software testing.
+
+Possess thorough knowledge of s/w testing tools
+Fluent in UNIX, Linux and/or Windows as well as scripting and command-line tools
+Experience with testing software developed in C++
+Possess excellent communication skills (written and verbal)
+
+Preferred Experience
+
+VxWorks 653 Real-Time Operating System (RTOS)
+Understanding of various development methodologies, such as Agile and Scrum, and software testing platforms or environments
+Experience with testing or development in C, Java, SQL, Python, Ruby on Rails, JavaScript, and Qt is a plus
+Programming skills and an understanding of databases
+
+Security Clearance Requirement
+
+Active DoD Secret clearance is required
+
+SURVICE Engineering is an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability status, protected veteran status, or any other characteristic protected by law. VEVRAA Federal Contractor.",3.7,"SURVICE Engineering Company
+3.7","Lexington Park, MD",,201 to 500 Employees,1981,Company - Private,Aerospace & Defense,Aerospace & Defense,$10 to $25 million (USD),
+Data Acquisition Engineer (SCADA/Web Backend),,"GameChange Solar is one of the fastest growing, most dynamic companies in the rapidly growing solar industry. We have top quality solar racking and tracker products that generate the most amount of energy, are the fastest to install, and the most cost effective.
+
+The Data Acquisition Engineer will work in development to improve our framework for data acquisition and control of our fleet of 100's of MW of solar trackers. They will also develop tools for data processing and visualization to provide for new features for our products. This is an exciting opportunity for an engineer with experience in web design and SCADA who has solid communication skills.We offer a solid base with significant bonus upside for exceptional performance.
+
+Roles and responsibilities include but will not be limited to:
+
+· Develop a system for local SCADA interfacing
+
+· Configure software suites to meet our system needs
+
+· Develop custom applications to perform data acquisition and reporting
+
+· Create user-friendly HMIs
+
+· Work with engineering team to design and develop our back end for data acquisition and control
+
+· Use machine learning techniques to improve system performance
+
+Skills and Education:
+
+· Experience with networks and SCADA
+
+· Experience with backend web design
+
+· Python, Google VM, Linux, Javascript/css/html Node, React, LabView
+
+· Experience with Modbus, TCP, SSH, SFTP
+
+· Knowledge of NEC, NERC, CIP, industry protocols (IEC-61850, DNP, Modbus, OPC), Ethernet systems, protocol analyzers, and industry SCADA practices
+
+· Experience with SCADA integration software such as Kepware, Aggregate, Zenon
+
+· Bachelor's Degree in Electrical Engineering with preferred emphasis in software, integration and automation, and industrial controls
+
+· 2+ years experience in SCADA, industrial controls, or backend web design
+
+· Strong Communication skills: Mastery of written and spoken English required
+
+Salary DOE
+
+Business Casual attire when in office setting.
+
+PPE and GCS attire for onsite visits.
+
+Job Type: Full-time
+
+Benefits:
+401(k)
+Dental insurance
+Health insurance
+Paid time off
+Retirement plan
+Vision insurance
+Schedule:
+Monday to Friday
+Supplemental Pay:
+Bonus pay
+Experience:
+SCADA: 2 years (Preferred)
+Networks: 2 years (Required)
+Backend Web Design: 2 years (Preferred)
+Education:
+Bachelor's (Preferred)
+Work authorization:
+United States (Required)
+Application Question:
+List a brief description of what we make
+Company's website:
+gamechangesolar.com
+Benefit Conditions:
+Waiting period may apply
+Only full-time employees eligible
+Work Remotely:
+Temporarily due to COVID-19",2.5,"GameChange Solar
+2.5","Norwalk, CT",,51 to 200 Employees,2012,Company - Private,Energy,"Oil, Gas, Energy & Utilities",Unknown / Non-Applicable,
+Full Stack Engineer,,"ClearCube is in a growth mode. If you are seeking a rewarding career opportunity with a growing company that is a catalyst in the evolution of computing, then you should consider ClearCube. Well-funded, profitable, and experiencing explosive growth, we are always looking for exceptional people to add to our team. Competitive salaries and a comprehensive benefits package make ClearCube a great choice. A fun and challenging work environment make this opportunity anything but ordinary.
+
+ClearCube is headquartered near Austin, Texas, an established technology center and one of the country’s highest-rated lifestyle cities. We are actively looking for energetic, motivated people who thrive on creativity and responsibility.
+Full Stack Software Engineer *
+We are looking for a self-starter Full Stack Engineer that is passionate about technology to drive various improvements in our Sales, Marketing and Manufacturing applications and teams. As part of the Product Engineering team, you will be the driving force behind our efficiency improvements related to our ERP system mainly and building new applications to make our current system better and coming up with new concepts. You will also be responsible for updating and making improvements to our e-commerce configurable Website. To meet this challenge, you will need the experience in the Microsoft, LAMP and MEAN stack as well as the complex needs of ClearCube’s internal and external customers.
+Key Responsibilities: *
+Analyzing our ERP database and optimization and suggesting better implementations on normalization and efficiency
+Developing new Windows Forms in our ERP system called M1 by ECI to help Operations, Manufacturing and Sales teams
+Reporting to manager about any impediments, support and updates
+Managing the website for any optimization for functionality as well as performance
+Maintaining our web server
+Working and syncing with your team to resolve issues and provide answers to improve efficiency and come up with new applications for internal processes and new products
+Learning and keeping up with new technology frameworks on the front-end, middleware or backend.
+Developing applications and utilities across different platforms
+High self QA standards, ability to craft code that is not only functional but also clean and maintainable
+Ability to work both independently as well as in a team setting
+Experience in developing Product Requirements Documents
+Project estimation/planning skills – specifically agile development practices and tools
+Must Haves: *
+Experience in Database development using aggregate functions, clustering, indexing, scalability, joins, constraints, normalization, etc.
+Building Windows forms with Visual Basic to create reports and coding in Crystal Reports to develop reports
+Good understanding of the Microsoft Stack from the BIOS, OS, IIS Server, .NET
+LAMP and MEAN stack experience and understanding different distros like RHEL, Ubuntu, CENTOS, etc.
+High knowledge of Command Line Interface and BASH commands
+API development and understanding POST, GET, PATCH, DELETE, tokens, JSONP, CORS, etc. Also, setting up a web server to handle API requests
+Being able to code in different languages, Visual Basic being priority, C#, JavaScript/Node.js, HTML, CSS, Python, PHP
+Cloud platform systems like Google Cloud, AWS and Azure experience
+NGINX, Apache, IIS web servers and server management experience
+Microservices and use of containers and virtual environments like Docker
+E2E and Unit testing experience
+BS/BA in Science, Technology, Engineering, and Mathematics or related experience
+3+ years of proven experience as a software engineer
+1+ years of demonstrable experience of working with and tailoring ERP systems.
+Nice to have’s: *
+Machine Learning/AI experience
+DevOps and networking experience
+BIOS development using C and assembly
+Physical Demands: *
+The physical demands described here are representative of those that must be met by an employee to successfully perform the essential functions of this job.
+
+· The employee must regularly lift and or move up to 25 pounds, frequently lift and/or move up to 50 pounds.
+
+· Employee must be able to regularly sit, use hands and fingers, handle, feel and talk or hear.
+
+· Must be able to stand, walk and stoop, kneel, couch or crawl
+Salary Range: *
+$60,000 to $80,000 depending on qualifications and experience.
+Benefits: *
+ClearCube is an equal opportunity employer and strives to provide a work environment free of discrimination and harassment. We offer competitive salaries, bonus program based on company achievement, health benefits with unparalleled growth and development opportunities all to create a compelling and rewarding work environment.
+
+If you are the kind of communicator who can make compelling technology even more irresistible, this is your opportunity. Thank you for your interest in working with us. We are eager to work with you!
+
+To join the ClearCube team, where your talent and contribution will be respected, contact us at jobs on the ClearCube.com web-site.
+
+\*\* Candidates must be LOCAL to the Greater Austin area. Non-local candidates will not receive a reply \*\*
+
+\*\* No recruiters or placement firms - no response will be given \*\*
+
+Job Type: Full-time
+
+Pay: $60,000.00 - $80,000.00 per year
+
+Benefits:
+401(k)
+Dental insurance
+Employee assistance program
+Flexible spending account
+Health insurance
+Life insurance
+Paid time off
+Vision insurance
+Schedule:
+Monday to Friday
+COVID-19 considerations:
+In order to keep our employees as safe as possible, we have implemented additional cleaning in our facility as well as supplying hand sanitizer and masks. In addition all visitors have their temperature checked and are screened per establish Guidelines.
+
+Work Location:
+One location
+This Job Is:
+A job for which military experienced candidates are encouraged to apply
+Open to applicants who do not have a college diploma
+Company's website:
+clearcube.com
+Company's Facebook page:
+https://www.facebook.com/clearcubetech
+Benefit Conditions:
+Only full-time employees eligible
+Work Remotely:
+No",4.2,"ClearCube Technology, Inc.
+4.2","Leander, TX",,1 to 50 Employees,1997,Company - Private,Computer Hardware & Software,Information Technology,$10 to $25 million (USD),
+"JavaScript Developer- Remote BC, ON, QC",,"Remote- Anywhere in BC, Quebec, Ontario
+
+About the company
+
+xMatters helps enterprises prevent, manage and resolve IT incidents. xMatters industry- leading Digital Service Availability platform prevents IT issues from becoming big business problems. Large enterprises, small workgroups, and innovative DevOps teams rely on its proactive issue resolution service to maintain operational visibility and control in today’s highly fragmented IT environment. xMatters provides toolchain integrations to hundreds of IT management, security, and DevOps tools. xMatters is the primary Digital Service Availability platform trusted by leading global companies and innovative challengers including BMC Software, Credit Suisse, Danske Bank, DXC technology, Experian, Intuit, NVIDIA, Sony Network Interactive, ViaSat and Vodafone. xMatters is headquartered in San Ramon, California and has offices worldwide.
+
+Interviewing and working with us during COVID:
+All interviews will be conducted via video conferences
+This is a full-time remote position with no requirement to come to the office.
+We follow the guidance of health authorities in each jurisdiction where we have offices
+We have developed health and safety procedures and guidelines for employees who want to continue working at our offices
+
+The Position
+
+xMatters is looking for a full-time, server-side JavaScript developer to help integrate our software with a variety of other software systems and cloud platforms. If you’re looking for an opportunity to work with different technologies and frameworks and enjoy the challenge of working with APIs and third-party systems, we’d love to hear from you. You’ll be joining a supportive and growing team of developers at an established, late-stage startup. This is your chance to:
+Work with different partners to understand their systems and how they can integrate successfully with our software.
+Collaborate with product management and other development teams to produce simple-to-use tools that our customers can easily integrate into their workflows.
+Expand our library of supported integrations that make xMatters the platform of choice for our customers.
+Help develop high quality code using best practices that can be used and extended by our customers.
+Work with the latest technologies and processes in a cloud-based environment.
+We’re focused on keeping the world’s digital services available and our integrations form the basis of making that possible for our customers.
+Other things to know
+
+This position is for a full-time remote developer reporting to the Integrations Team Lead. Only candidates with legal status to work in Canada and who are residents of British Columbia, Ontario, or Quebec will be consideredSuccessful candidates will possess the following
+Degree or diploma in Computer Science, Software Engineering, or equivalent experience.
+3+ years’ experience in a software development position
+Experience with JavaScript on the server side
+Experience using various data interchange formats like JSON and XML
+An enjoyment of problem solving and analytical thinking
+Experience with web services such as REST and SOAP
+Experience consuming REST APIs (bonus points for building effective REST APIs)
+And, of course, any (or all!) of the following qualifications are also valuable
+Proficiency using Java
+Experience integrating with enterprise systems
+Familiarity with a variety of operating systems and scripting languages
+Keen desire to innovate and create state-of-the-art software
+Proficiency with Front End web technologies such as HTML, CSS and client-side JavaScript
+Proficiency with other programming languages such as Python or Ruby
+Experience with certified applications for PAAS products such as ServiceNow or Salesforce
+Experience with GCP or AWS
+Experience with Kubernetes or container orchestration
+Experience with database management systems (PostgreSQL, SQL Server, Oracle, DB2)
+Experience with Node.js, Express.js and Redis
+Conditions of Employment
+Legally able to work in Canada; resident of BC, Ontario, or Quebec
+Background check
+Agree to acceptable use policy
+Tell us why you'd be a great fit for this position
+Include your resume
+Please apply on our website",4.6,"xMatters
+4.6",Remote,,201 to 500 Employees,2010,Company - Private,Computer Hardware & Software,Information Technology,$50 to $100 million (USD),
+Mid-Level Software Developer,,"Join Riverside Research's Satellite Collection Planning Suite Development Team! In this role, you will participate in the research, design, development, testing, optimization, and deployment of complex new solutions supporting mission critical programs for defense and intelligence users across the globe. You will work in a dynamic team on developing, debugging, and maintaining software deployed in a cloud environment. This candidate will support developing user interfaces, web services, and data and business logic portions of the code in both pre-mission planning and real-time execution phases of the mission planning process.
+
+Job Responsibilities:
+
+The selected candidate will have experience developing applications in an agile environment leveraging established legacy C#/VB code. You will use your technical expertise and problem solving skills to develop a wide variety of operational grade software solutions to meet government defense and intelligence missions.
+
+Qualifications:
+
+• U.S. Citizenship required.
+• Must be eligible to obtain and maintain a TOP SECRET clearance
+• B.S. in computer science, engineering, or a related field and professional experience with an emphasis on full lifecycle systems development including system design, development, and maintenance/support.
+• 5+ years of strong demonstrated experience in full stack development using .NET and C# with Web Forms and MVC models.
+• Demonstrated experience working with relational databases (Microsoft SQL Server 2008 - 2016) and developing database-driven .NET applications.
+
+Desired Qualifications:
+• Experience with web-based technologies, methodologies and architectures, including, MVC, JavaScript, CSS, Bootstrap, JQuery, AJAX, and JSON
+• Experience with database development and design principles, preferably Oracle
+• Experience with satellites, satellite sensor systems, mission planning, or similar domain knowledge
+
+IND1
+
+Riverside Research strives to be one of America’s premier providers of independent, trusted technical and scientific expertise. As we continue to add experienced, technically astute staff, we are looking for highly motivated, talented team members that can help our DoD and Intelligence Community (IC) customers continue delivery of world class programs. As a not-for-profit, technology-oriented Defense Company, we believe service to customers and support of our staff is our mission. Our goal is to serve as a destination company by providing an industry-leading, positive, and rewarding employee experience for all who join us. We aspire to be a valued partner to our customers and to earn their trust through our unwavering commitment to achieve timely, innovative, cost-effective and mission-focused solutions.
+
+All positions at Riverside Research are subject to background investigations. Employment is contingent upon successful completion of a background investigation including criminal history and identity check.
+
+This contractor and subcontractor shall abide by the requirements of 41 CFR 60-741.5(a). This regulation prohibits discrimination against qualified individuals on the basis of disability, and requires affirmative action by covered prime contractors and subcontractors to employ and advance in employment qualified individuals with disabilities.
+
+This contractor and subcontractor shall abide by the requirements of 41 CFR 60-300.5(a). This regulation prohibits discrimination against qualified protected veterans, and requires affirmative action by covered contractors and subcontractors to employ and advance in employment qualified protected veterans.",3.4,"Riverside Research
+3.4","Centreville, VA",,501 to 1000 Employees,1967,Nonprofit Organization,Federal Agencies,Government,$50 to $100 million (USD),
+Full Stack JavaScript Developer/ CESIUM 3D Developer,,"JavaScript Software Engineer
+Job Description* : The software engineer will design, develop, and test various mathematically intensive software applications. The software engineer will develop visualization scripts that reside within the CESIUM platform. A strong background in mathematics and engineering is required. The ideal candidate has working with modular JavaScript, can write pure JS code, and develop interactive web applications. This position requires the successful candidate to be self-motivated and at times work with little supervision. The ability to interact with other professionals in various sectors is critical.
+The essential roles and responsibilities will include:
+
+· 5+ years’ experience with complex JavaScript codebases
+
+· 4+ years’ experience in a frontend development role
+
+· Working experience with ReactJS, AngularJS, RESTFUL APIs, and HTML
+
+· Strong understanding of MySQL database
+Minimum Qualifications* : Completion of bachelor’s degree in computer science or engineering with a minimum of 4 years experience in software design and software development . TQualified applicant must be a US citizen.
+Location: * Boulder, CO.
+Job Type: Full-time
+
+Job Type: Full-time
+
+Pay: $70,000.00 - $85,000.00 per year
+
+Experience:
+JavaScript: 5 years (Required)
+Education:
+Bachelor's (Required)
+Work Location:
+One location
+Visa Sponsorship Potentially Available:
+No: Not providing sponsorship for this job
+Schedule:
+Monday to Friday",2.9,"SpaceNav
+2.9","Boulder, CO",,1 to 50 Employees,,Company - Private,,,Less than $1 million (USD),
+Senior Applications Developer,,"We’re a Little Different
+
+Our mission is clear. We bring to life a healing ministry through our compassionate care and exceptional service.
+
+We don’t believe in jobs at Mercy, we believe in careers that match the unique gifts of unique individuals; careers that not only make the most of your skills and talents, but also your heart.
+
+At Mercy, you’ll feel our supportive community every step of your day, especially the tough ones. We’re a team and love working that way. That team is expanding, and we currently have exceptional opportunities to help our communities grow.
+
+You will help transform Mercy and its digital web presence to deliver an exceptional experience for our patients. You will be involved in all aspects of the development process. This includes design, configure, debug, and evaluate custom web applications. You will be working on Angular web applications with integration into Java based services. You will work in an Agile based development environment working closely with our business partners to create/enhance our digital presence. You may occasionally be involved in non-programming aspects of the development process including definition of user requirements, testing, deployment, documentation, and support.
+
+Responsibilities:
+
+Work with development teams and product managers to ideate software solutions
+Design client-side and server-side architecture
+Build the front-end of applications through appealing visual design
+Develop and manage well-functioning databases and applications
+Write effective APIs
+Test software to ensure responsiveness and efficiency
+Troubleshoot, debug and upgrade software
+Create security and data protection settings
+Build features and applications with a mobile responsive design
+Write technical documentation
+
+Qualifications:
+
+Because you’re committed to excellence, you understand the importance of being properly prepared for your role at Mercy. That’s why you’ll bring to your role the right set of qualifications:
+
+Education: Bachelor's degree in related field, specialized training, or equivalent work experience Additional Requirements Demonstrates general understanding of full software development life cycle Demonstrates general understanding of code management principles
+Experience: Five (5) years of relevant technical or business work experience
+
+Preferred Qualifications
+
+5-7 years of proven experience as a Full Stack Developer or similar role
+Experience with developing responsive web applications
+Familiarity with common stack
+Knowledge of multiple front-end languages and libraries (e.g. HTML5/ CSS, Angular, js, JavaScript, XML)
+Knowledge of multiple back-end languages (e.g. Java), frameworks (e.g. Spring, SpringBoot, Hibernate), and web/REST services
+Familiarity with databases (e.g. Oracle, MySQL), web servers (e.g. Apache/Tomcat), continuous integration tools (e.g. Git, Jenkins, Nexus, Ansible)
+Excellent analysis, communication, and teamwork
+Degree in Computer Science or relevant field
+
+We’ll Support You at Work and Home
+
+Our foundations are built on dignity and respect. Modern Healthcare Magazine named us as a “top 100 places to work.” We go out of our way to help people feel welcomed. We offer day-one comprehensive health, vision and dental coverage, PTO, tuition reimbursement and employer-matched retirement funds to benefit-eligible co-workers, including those working 48 hours or more per pay period!
+
+What Makes a Good Match for Mercy
+
+Compassion and professionalism go hand-in-hand with us, along with exceptional quality care. Having a positive outlook and a strong sense of advocacy is in perfect step with our mission and vision. We’re also collaborative and are not afraid to do a little extra to deliver excellent care – that’s just part of our commitment. If that sounds like a fit for you as well, we encourage you to apply.
+
+Mercy has determined this is a safety-sensitive position. The ability to work in a constant state of alertness and in a safe manner is an essential function of this job.",3.4,"Mercy
+3.4","Chesterfield, MO",,10000+ Employees,1871,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$100 to $500 million (USD),
+Application Developer,,"The Stowers Institute has an opening for an application developer on the ServiceNow team to provide expertise around development of new features and applications for ServiceNow that will serve the needs of the IT department and the wider organization’s business processes.
+
+The developer will work under the direction of the developer within a software development life cycle framework (Agile) to participate in the planning and prioritization of work within the ServiceNow team’s sprint cycle.
+
+While not the primary responsibility, the individual will sometimes work in a user/customer facing role and should be comfortable with providing a high-quality customer service experience and user training that facilitates positive interactions with the ServiceNow system and team.
+
+Responsibilities include:
+
+· Developing applications and features for the ServiceNow platform
+
+· Developing interfaces between ServiceNow and external systems (data warehouse and MDM, LIMS, SharePoint/365)
+
+· Maintaining and developing service portal widgets using AnglarJS / Bootstrap 3
+
+· Proficiently developing using html / javascript / css
+
+· Using service-oriented architecture do develop web services integrations (SOAP, REST)
+
+· Maintaining administrator documentation as well as user facing documentation for the platform
+
+· Creating and managing service catalog items and workflows to meet the needs of the organization
+
+· Managing test plans for new or modified features
+
+· Other duties as assigned
+
+Successful candidates will have strong communication skills and the ability to actively participate in interdisciplinary teams; the ability to prioritize management of projects/time; demonstrate the capability of high performance in independent work as well as in a team setting; maintain a high degree of initiative, accuracy, and attention to detail; and exhibit creative and out-of-the-box thinking skills.
+
+Minimum requirements include a bachelor’s degree in computer science, information technology or related field OR at least 1-3 years’ experience working in the IT or computer science fields AND:
+
+Additional Preferred Technical Skills:
+
+· Familiarity with LDAP, AD, ADFS
+
+· 1-3 years’ experience working in web development or related discipline
+
+· Familiarity with Change, Problem and Incident management
+
+· Experience working within the Agile software development framework
+Application Instructions: * To apply, please submit a current resume and cover letter to careers[at]stowers.org or to Administration Department, Stowers Institute for Medical Research, 1000 E 50th Street, Kansas City, MO 64110.
+Job Type: Full-time
+
+Benefits:
+401(k)
+Dental Insurance
+Employee Assistance Program
+Flexible Spending Account
+Health Insurance
+Life Insurance
+Paid Time Off
+Retirement Plan
+Vision Insurance
+Schedule:
+Day shift
+Work Location:
+One location",4.3,"Stowers Institute for Medical Research
+4.3","Kansas City, MO",,201 to 500 Employees,,Nonprofit Organization,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10 to $25 million (USD),
+Senior Full-Stack Engineer,,"COVID 19 UPDATE:
+
+We have leaned into the current health crisis with the development of new features like Volusion Curbside. Since March, we have hired more than a dozen new Volusioneers with no signs of slowing down. We are actively interviewing for key roles in order to keep up with our product roadmap goals. During these unprecedented times Volusion continues to provide stability and growth opportunities to our employees and merchants alike.
+
+We are doing our part to flatten the curve so for the time being all interviews will be conducted virtually. As a company ALL employees are currently working remotely.
+
+About us:
+
+Volusion powers thousands of ecommerce sites - from fledgling entrepreneurs like local artists selling handmade goods to mid market businesses processing millions of dollars in online sales every year. If you're a creative professional that has a passion for driving change and you want to better the world with your ideas, we want to hear from you!
+
+About you:
+
+Your gift for analytical processing and bringing projects to perfect resolve has always been your strength. While you don't seek glory or public recognition, you take satisfaction in knowing you're great at what you do and that you're an important part of a winning team. Volusion is seeking a take charge, technical/analytical data-driven perfectionist to fill our open Senior Full-Stack Engineer role.
+
+You will:
+
+Define and drive technical solutions to product features: You will be the technical leader on a feature-focused engineering team tasked with rapid and accurate delivery of product features. You will architect these features through collaboration with the team, connect this architecture with business drivers, and ensure implementation inline with industry best practices.
+Build and expand a robust REST API: Our front-ends depend on clearly defined, performant APIs. You will help design our API endpoints and implement them in TypeScript and Node.js to ensure high performance and consistent results.
+Communicate, document, and ensure technical consistency across multiple feature and platform teams: We have multiple teams working on multiple features as well as improving the technical foundation of our platform. You will be a member of our cross-functional architecture group making technology and best-practice decisions for all of our feature teams and across engineering.
+Define, document, institute, and coordinate engineering best practices: Our platform must be performant, stable, secure, and reliable, and our engineering teams need to deploy routinely while ensuring high quality and repeatability. You will be responsible for working with our teams and our DevOps and operations engineers to implement processes for all of these ""ilities"" across the platform.
+
+We are looking for someone with:
+
+3+ years of technical ownership of a full-stack platform of a product: front-end, middleware, back-end, API, data layer, etc.
+3+ years of E-Commerce or SaaS experience
+5+ years designing and building REST APIs backed by business logic in Java or a JavaScript variant (for example, Node.js or Typescript)
+3+ years building business logic in a JavaScript runtime (Node.js or TypeScript preferred)
+3+ years of interacting with databases using SQL either through direct access or frameworks that support SQL querying
+Proven technical leadership of development teams from ticketing through delivery
+Well-formed opinions on unit, integration, and full system testing philosophy for APIs, deployment through continuous integration, and Agile
+A Bachelor of Science Degree in Electrical, Mechanical, Software, or other Engineering discipline
+
+Volusion's Technology Stack:
+
+React (including React hooks), React with Redux, Relay, and server-side and client-side rendering
+Public-facing REST APIs backed by TypeScript and Node.js
+SQL and no-SQL Databases; specific experience with PostgreSQL and MongoDB is a plus
+Google Cloud Platform including Kubernetes, Firebase, and managed database services
+Search and caching using Elasticsearch, RediSearch, Algolia, and Redis
+
+Who is also the embodiment of our culture code (we hope you are nodding your head in agreement as you browse through it!):
+
+Humble: Have humility and be respectful; no egos allowed.
+Effective: Get stuff done!
+Adaptable: Willing to fill any role, anytime. Going above/beyond the call of duty.
+Transparent: Open and honest to self and others.
+Collaborative: We favor teamwork and take ownership.
+A founder: Think big, go fast, and solve for the customer.
+
+Benefits & Perks:
+
+Competitive Compensation Packages
+401(k) with Company Matching
+Medical, Dental, Vision, and Voluntary Life Insurance
+Paid Parental Leave
+Flexible Paid Time Off
+Remote Work Flexibility
+Two Volunteer Days Off
+Professional Development Opportunities for Career and Skills Advancement
+On-site Fitness and Yoga Classes
+Casual Dress
+Breakfast Taco Fridays
+Endless Supply of Tiny House Nitro Coffee, Bevi sparkling water, fruit and snacks
+Bring Your Dog to Work Days
+Adjustable Desks
+Chair Massages
+Team Sports and Team Outings",2.6,"Volusion
+2.6","Austin, TX",,51 to 200 Employees,1999,Company - Private,Computer Hardware & Software,Information Technology,$1 to $5 million (USD),
+Software Developer,,"Position Overview
+
+CyberGrants is an ambitious, fast-growing and innovative company that helps our clients achieve Agile Social Impact. We are proud to have hundreds of clients, including over half of the Fortune 100. In the last twelve months alone, we’ve processed over $6.5 billion and more than 50 million volunteer hours. Nearly one-third of all corporate charitable giving is donated via CyberGrants software.
+
+As part of our Technical Services team, you will be working in a highly collaborative environment in an exciting and comfortable atmosphere. You will be responsible for translating client requirements into the design and development of customized systems. You will be immersed in multi-tiered technical solutions integrating front-end, server-side, and database code.
+
+By joining CyberGrants, take your technical potential together with your passion for good and go home every night knowing the work you’ve done has positively impacted millions of people around the world!
+
+Apprenticeships or part-time may be considered.
+
+Key Responsibilities
+Support technical development of new client implementations and enhancements to existing client programs integrating front-end, server-side, and database code
+Resolve technical issues related to custom and standard CyberGrants software offering
+Design and develop internal support software to improve productivity, quality and speed of delivery
+Demonstrate a strong ability to learn quickly and research new technology or skills as needed
+Participate openly and constructively in code peer review and other quality control activities
+Interpret business requirements and formulate developer and test strategies
+Demonstrate a strong ability to be flexible and think out-of-the-box
+Work effectively individually and as part of a multi-discipline team
+
+
+Requirements
+Programming experience in one or more current programming languages, Python preferred.
+Experience with Relational Database(s) and related query languages (MySQL, MS SQL Server, Oracle SQL, Other) .
+Experience with Test Driven Development (Unit Testing Frameworks).
+Ability to effectively communicate and deliver technical information to business users and all stakeholders.
+Strong attention to detail and a passion for quality, client happiness and continuous learning.
+Preferred Qualifications
+Object Oriented Server Side Language(s) (PHP, Java, .NET, PLSQL, Other)
+Web Services (RESTful API integration)
+JavaScript
+Contemporary Source Control Systems (GIT)
+Agile / Scrum methodologies
+Continuous Integration and Continuous Deployment (CI/CD)
+Tools and Methods (JIRA, Git, Wrike, Axure)
+DevOps
+Experience working with dispersed development and business teams.
+Education
+Bachelor's degree (B. A. / B. S.) in technical field from four-year college or university.
+Completed coding boot-camp or comparable work experience.",2.1,"CyberGrants
+2.1","Andover, MA",,51 to 200 Employees,1999,Company - Private,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable,
+Full Stack Engineer,,"About Us:
+
+Ezoic is an Artificial Intelligence company that works with thousands of online publishers, helping them use machine learning to make smart decisions about the layouts, advertisements and features that users see. These publishers range from individuals to small and medium-sized companies. We have our headquarters in Carlsbad, CA, with a team of very smart free-thinking individuals. Ezoic is a VC-backed startup that is growing quickly. It's a unique opportunity to both be part of a revolutionary product in its earlier stages and work on something that already touches hundreds of millions of people month.
+
+About You:
+
+You must be a tech-savvy professional who enjoys learning about new technologies and solving problems. This is a fast-moving engineering role where you will be able to work on core products and develop designs and functionality from scratch. You must enjoy collaborating with other smart engineers, creating scalable solutions to improve publishers' digital properties.
+
+Qualifications include:
+
+2+ years of experience as a software engineer
+Experience with Node/PHP/GOLANG to retrieve and process data
+Strong client-side HTML/CSS/JavaScript/AJAX skills and experience
+Ability to create wireframes and designs that result a great user experience
+Familiarity with cross-browser testing and debugging
+Experience developing Chrome extensions
+
+About the role:
+
+Your contributions will have a meaningful and visible impact on the company on a daily basis. You will be building tools for three distinct audiences:
+
+Our publishers, providing tools to control and customize their sites, and provide feedback on key performance metrics from the artificial intelligence engine
+Our users, creating widgets and features used across thousands of sites to provide advanced functionality, which will be automatically enabled or disabled via the Ezoic engine at a granular level
+The Ezoic team, providing access to data and features to allow the team to analyze performance, identify issues, and make changes to manage site performance.
+
+Technologies used:
+
+Javascript, Vue.js
+CSS
+HTML5
+MySQL
+Linux
+GOLANG
+PHP
+Life as an Ezoic engineer:
+
+Ezoic is a technology-first company. Our CEO is a developer by trade, and our engineers are given all the tools needed to succeed. We have a brand new office in Carlsbad, CA, where every engineer works at their own quad-monitor setup on a standing desk. We pride ourselves on getting stuff done, but when you need a break, Ezoic offers great perks, including untracked vacation time, catered lunches, unlimited snacks, flexible hours, ping pong, video games, and pool.
+
+#ZR",4.9,"Ezoic
+4.9","Carlsbad, CA",,51 to 200 Employees,2010,Company - Private,Research & Development,Business Services,$50 to $100 million (USD),
+Cloud Security Architect,,"*Cloud Security Architect *
+
+*Summary of This Role*
+
+*This Cloud Security Architect role will be a key Information Security representative in the Mainframe Modernization program. This role will review architectures for services as they prepare to migrate from a mainframe to AWS. This role will assess the risk and offer suggestions for remediation, including design changes or security technologies.*
+
+*What Part Will You Play?*
+* *Work across all the mainframe modernization project scrum/flex teams.*
+
+* *Review services as each Scrum/Flex team prepares to migrate them from the mainframe to AWS.*
+
+* *Perform security assessments on each service, taking into consideration corporate security standards, PCI requirements, and AWS best practices.*
+
+* *Define new security standards for new services as required, and share them with the rest of the Cloud Security team.*
+
+*What Are We Looking For in This Role?*
+
+*Minimum Qualifications*
+* *5 years AWS, 5+ years application or infrastructure architecture*
+
+* *Must have AWS Experience, CI/CD/GitOps experience (Jenkins, Terraform)*
+
+* *Experience defining security standards for use by multiple teams.*
+
+* *BS in Computer Science, Information Technology, Business / Management Information Systems or related field*
+
+*Preferred Qualifications*
+* *AWS Security Professional, AWS Architect Professional, CCSP, CISSP*
+
+* *BS in Computer Science, Information Technology, Business / Management Information Systems or related field*
+
+*What Are Our Desired Skills and Capabilities*
+* *AWS, microservices, and Kubernetes architecture design and review*
+
+* *Threat modeling, vulnerability assessment, risk ranking, and remediation planning*
+
+* *Good interpersonal skills, especially the ability to lead via influence and collaborate across teams*
+
+*
+
+*Operating Systems: *
+* *Linux distributions including one or more for the following: Ubuntu, CentOS/RHEL, Amazon Linux*
+
+* *Microsoft Windows*
+
+* *z / OS*
+
+* *Tandem/HP-Nonstop*
+
+*Database*
+* *Design, familiarity with DDL and DML for one or more of the following databases Oracle, MySQL, MS SQL Server, IMS, DB2, Hadoop*
+
+*Back-end technologies *
+* *Java, Python, .NET, Ruby, Mainframe COBOL, Mainframe Assembler*
+
+*Front-end technologies*
+* *HTML, JavaScript, jQuery, CICS*
+
+*Web Frameworks*
+* *Web technologies like Node.js, React.js, Angular, Redux*
+
+*Development Tools*
+* *Eclipse, Visual Studio, Webpack, Babel, Gulp*
+
+* *BitBucket, Codecommit*
+
+Job Type: Full-time
+
+Pay: $118,532.00 - $193,912.00 per year
+
+Benefits:
+* 401(k)
+* 401(k) matching
+* Dental insurance
+* Disability insurance
+* Health insurance
+* Life insurance
+* Paid time off
+* Tuition reimbursement
+* Vision insurance
+Schedule:
+* Monday to Friday
+
+Experience:
+* azure: 5 years (Preferred)
+* Cloud architecture: 5 years (Preferred)
+
+Education:
+* Bachelor's (Preferred)
+
+Work Location:
+* One location
+
+Visa Sponsorship Potentially Available:
+* Yes: H-1B work authorization
+* Yes: Immigrant visa sponsorship (e.g., green card sponsorship)
+
+This Job Is:
+* A job for which military experienced candidates are encouraged to apply
+
+Company's website:
+* tsys.com
+
+Work Remotely:
+* Temporarily due to COVID-19",3.0,"TSYS
+3.0","Columbus, GA",,10000+ Employees,1983,Company - Public,Financial Transaction Processing,Finance,$2 to $5 billion (USD),
+Security Engineer,,"Security Engineer
+Job Description
+Security Engineer – CoStar Group – Washington, DC
+
+OVERVIEW
+
+CoStar Group, Inc. (NASDAQ — CSGP) (www.costar.com) is commercial real estate's leading provider of information and analytic services.
+
+Founded in 1987, CoStar conducts expansive, ongoing research to produce and maintain the largest and most comprehensive database of commercial real estate information. Our suite of online services enables clients to analyze, interpret and gain unmatched insight on commercial property values, market conditions and current availabilities.
+
+Headquartered in Washington, DC, CoStar maintains offices throughout the U.S. and in Europe with a staff of approximately 4,300 worldwide, including the industry's largest professional research organization.
+
+About our Security Team:
+
+We are a collaborative group that regularly cross train each other in multiple disciplines. We love being able to work with the best tools in the industry and have the freedom to design our tool sets. We are looking for a smart, creative and passionate Security Engineer to help continue improving our information security posture at The CoStar Group. Someone who enjoys working with all departments of The CoStar Group helping drive and shape the way we manage the protection of our customers and our ever growing data environment.
+
+RESPONSIBILITIES
+
+Identify vulnerabilities and oversee remediation using vulnerability management tools like Nessus, Qualys, Rapid7 Nexpose / InsightVM, Retina, etc .
+Manage and operate SIEMs such as LogRhythm, Sentinel, Splunk, ArcSight, QRadar to identify emerging threats and execute remediation
+Solidify security across a very large set of workstation, server, instance, and container endpoints using industry leading tools.
+Secure our perimeter with a zero trust approach including multifactor authorization, conditional access, MDM host checking, and environmental factors to make real-time access decisions.
+
+BASIC QUALIFICATIONS
+
+Bachelor’s Degree required, preferably in Computer Science (or related field)
+Minimum 3 years combined experience in field of Information Security or Information Technology (with at least 18 months directly focused on Cyber Security)
+Required basic functional scripting/programming skills including the to ability to write a few basic statements and commands in at least one common security scripting language such as Regex, Python, Powershell, Ruby, JavaScript, Splunk SPL, Painless Script, Azure KQL, etc.
+Fluent knowledge of Desktop, Server, Container, or Cloud environments as pertains to a rich understanding of network and systems underlying technologies to extract security insights including syslog, DNS, firewalls, routers, LDAP, load balancers, and Event Logs
+Experience using at least 3 security tools (SIEMs, Scanners, XDR, EDR, EPP, NGFW`) to audit infrastructure, detect issues and coordinate remediation efforts
+
+PREFERRED QUALIFICATIONS AND SKILLS
+
+Familiarity or experience with ethical hacking, penetration testing, blue team, red team, or purple team exercises
+Security certifications such as SANS/GIAC, CISSP, ISACA, CISM
+Experience scanning large global autonomous compute environments to identify and remediate vulnerabilities to maintain compliance with CIS, NIST, PCI, SOX, or other industry standards and compliance benchmarks.
+Experience with network perimeter tools such as Akamai, Palo Alto, Zscaler, Arbor Networks, Duo Beyond, Check Point, Cisco Source Fire, Snort, Symantec Blue Coat, Proofpoint, etc.
+
+OVERVIEW OF COMPANY:
+
+Founded in 1987, CoStar Group is the leading provider of commercial real estate information, analytics, and online marketplaces. Our suite of online services enables clients to analyze, interpret and gain unmatched insight on commercial property values, market conditions and current availability. Behind some of the most well-known brands in the industry, CoStar Group includes CoStar, the largest provider of CRE research and real-time data; LoopNet, the most heavily trafficked mobile and online real estate marketplace; Apartments.com, the premier rental home resource for renters, property managers and owners; STR, the leading provider of performance benchmarking and comparative analytics to the hotel industry; BizBuySell, the largest online marketplace for businesses-for-sales; and Lands of America, the leading operator of online marketplaces for rural real estate.
+
+Headquartered in Washington, DC, CoStar Group maintains offices throughout the U.S. and in Europe, Canada, and Asia with a staff of over 4,300 worldwide.
+
+WHATS IN IT FOR YOU:
+
+Working at CoStar Group means you'll enjoy a culture of collaboration and innovation that attracts the best and brightest across a broad range of disciplines. In addition to generous compensation and performance-based incentives, you'll be supported in both your professional and academic growth with internal training, tuition reimbursement, and an inter-office exchange program.
+
+Our benefits package includes (but is not limited to):
+
+Comprehensive healthcare coverage: Medical / Vision / Dental / Prescription Drug
+Life, legal, and supplementary insurance
+Commuter and parking benefits
+401(K) retirement plan with matching contributions
+Employee stock purchase plan
+Paid time off
+Tuition reimbursement
+On-site fitness center and/or reimbursed fitness center membership costs (location dependent), with yoga studio, Pelotons, personal training, group exercise classes, as well as Segways and bikes available for use during the day
+Complimentary gourmet coffee, tea, hot chocolate, prepared foods, fresh fruit, and other healthy snacks
+
+Be part of a team of professionals enjoying the opportunity to learn, do, and grow in a rewarding atmosphere. But don't just take our word for it - see why our team chose to work at and stay at CoStar Group:",3.1,"CoStar Group
+3.1","Washington, DC",,1001 to 5000 Employees,1987,Company - Public,Computer Hardware & Software,Information Technology,$1 to $2 billion (USD),
+Full Stack Developer,,"3form is seeking an experienced web developer to help our team design and implement complex systems for internal and external customers. Candidates will have strong analytic and problem-solving capabilities as well as a good understanding of software architectural patterns such as MVC, MVVM and MVW. Candidates must also be familiar with software version control (direct experience with GIT is a plus), SQL based databases and RESTful APIs. Strong interpersonal and communications skills will be used to work with a company-wide team for successful project delivery.
+
+Skills& Requirements -
+
+Required:
+5+ Years Work Experience
+A degree in information systems, computer science, etc. OR adequate experience in web development
+Angular Javascript Framework (2+)
+Git
+JavaScript (including jQuery)
+CSS3
+HTML5
+Ruby on Rails
+
+Preferred Experience:
+Yii Framework
+PHP
+Twitter Bootstrap (2.3.2+)
+Agile (SCRUM) Process
+HTML Canvas
+Websockets
+socket.io(node.js) or ActionCable (rails)
+DevOps",3.7,"3form
+3.7","West Valley City, UT",,501 to 1000 Employees,2007,Company - Private,Industrial Manufacturing,Manufacturing,$100 to $500 million (USD),
+ReactJS Developer,,"We are looking for a ReactJS Developer to help build a next generation shipping logistics suite. Our cloud-based SaaS automates tracking the movement of a customer’s freight from origin to destination efficiently, reliably, and cost effectively. Our platform also helps customers with broader logistics challenges related to accounting, claims, vendor management, driver payroll, and equipment inventory management. *
+The successful candidate will work closely with our Back End Development, Creative Design, and Support teams to update the app to make it more efficient and feature rich. We are looking for someone who is creative, technical, and fun to work with.
+
+Responsibilities
+You’ll work on improving the richness and the capabilities of our UI, to support the growing feature set of our product, and deliver a delightful user experience to our customers
+Full life cycle of application development from conception through support and maintenance, including fast iterations
+Advocate for usability throughout the design and development process
+Participate in regular code reviews of peers and contractors, be open to pairing when necessary
+Stay up-to-date with modern UI development including libraries, tools, browser support and frameworks
+Requirements
+A strong sense of product ownership and thrives in a fast-paced, iterative environment
+You understand the value of shipping quickly and of software craftsmanship, and have the judgment to know when to apply each.
+5+ years of JavaScript front-end development
+5+ years consuming RESTful web services
+Experience with React and JavaScript libraries/frameworks beyond just jQuery.
+You are passionate about JavaScript, and follow industry best practices
+Comfortable with using and extending Bootstrap
+Practical knowledge of web page optimization techniques and guidelines for fast page load times
+Exceptional problem-solving skills
+You write tests for your code
+Nice to haves
+You’re a polyglot and love using the right tool for the job, and can explain why
+An entrepreneurial spirit / business sense
+Familiar with using github, jenkins, asset-pipelines, and ci/cd tools
+Location
+Our office location is on the northwest side of Austin on 2222
+Can work remote during Covid-19
+Job Type: Full-time
+
+Benefits:
+401(k)
+Dental insurance
+Health insurance
+Paid time off
+Vision insurance
+Schedule:
+Monday to Friday
+Experience:
+ReactJS: 2 years (Required)
+Javascript: 5 years (Required)
+Work authorization:
+United States (Required)
+Work Location:
+One location
+Visa Sponsorship Potentially Available:
+No: Not providing sponsorship for this job
+This Company Describes Its Culture as:
+Outcome-oriented -- results-focused with strong performance culture
+Team-oriented -- cooperative and collaborative
+Company's website:
+www.magnustech.com
+Work Remotely:
+No",3.3,"Magnus Technology Group
+3.3","Austin, TX",,51 to 200 Employees,,Company - Private,,,$1 to $5 million (USD),

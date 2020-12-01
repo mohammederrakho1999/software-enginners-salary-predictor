@@ -37,6 +37,9 @@
  - made a column for hourly paid developers.
  
  # EDA: Data exploration:
+ I looked at the distributions of the data and do some univariate and biaviriate analysis. Below are a few highlights from the pivot tables.
+ ![](images/cap.png)
+
   
  
  # model building: Data modeling.
